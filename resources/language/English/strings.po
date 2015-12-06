@@ -322,3 +322,26 @@ msgctxt "#30410"
 msgid "To watch iPlayer TV content legally, you need a UK TV Licence."
 msgstr ""
 
+msgctxt "#30500"
+msgid "HTTP Proxy"
+msgstr ""
+
+msgctxt "#30510"
+msgid "Use Proxy"
+msgstr ""
+
+msgctxt "#30520"
+msgid "Proxy Host"
+msgstr ""
+
+msgctxt "#30530"
+msgid "Proxy Port"
+msgstr ""
+
+msgctxt "#30540"
+msgid "Proxy Username"
+msgstr ""
+
+msgctxt "#30550"
+msgid "Proxy Password"
+msgstr ""
